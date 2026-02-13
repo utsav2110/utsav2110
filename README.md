@@ -111,9 +111,9 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utsav2110&show_icons=true&theme=dracula" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=utsav2110&show_icons=true&theme=dracula" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=utsav2110&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav2110&layout=compact&theme=dracula" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsav2110&layout=compact&theme=dracula" /> -->
 </p>
 
 ---
