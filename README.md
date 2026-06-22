@@ -25,26 +25,24 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Utsav Solanki</h1>
-<h3 align="center">B.Tech in Mathematics and Computing | AI/ML Enthusiast</h3>
+<h3 align="center">B.Tech in Mathematics and Computing | AI, ML, DL and GenAI</h3>
 
----
-<img src="https://raw.githubusercontent.com/khyatisatija/khyatisatija/output/snake.svg" alt="Snake animation" />
+<!--
+  ![Profile Views](https://komarev.com/ghpvc/?username=utsav2110&label=Profile%20views&color=0e75b6&style=flat) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=utsav2110&label=Profile%20views&color=0e75b6&style=flat) 
-[![GitHub followers](https://img.shields.io/github/followers/utsav2110?label=Follow&style=social)](https://github.com/utsav2110?tab=followers)
-
+ [![GitHub followers](https://img.shields.io/github/followers/utsav2110?label=Follow&style=social)](https://github.com/utsav2110?tab=followers)
+-->
 ---
 
 ## 🚀 About Me
 
 - 💻 I love building scalable backend systems and interactive UIs.
-- 🌱 Currently learning: **AI**,**ML**
-- 👯 Open to collaboration on **real-world full-stack**, **AI/ML**, or **open-source projects**
-- 🧩 Hobbies: Reading tech blogs, solving DSA problems, and exploring dev tools
+- 🌱 Currently learning: **GenAI**
+- 👯 Open to collaboration on **real world full stack**, **AI/ML** or **open source projects**
+- 🧩 Hobbies: Reading tech blogs, solving DSA problems and exploring dev tools
 - ⚡ Fun fact: I enjoy turning complex tech into simple, usable products!
 
----
-
+<!--
 ## 🛠️ Tech Stack & Tools
 
 <p align="left">
@@ -56,6 +54,62 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-2196F3?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+</p
+-->
+
+---
+## 🛠️ Tech Stack & Tools
+
+### 💻 Programming Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Backend Services
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
+
+### 🤖 AI / Machine Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
+
+### 🚀 DevOps & Development Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+</p>
+
+### 🧠 Computer Science Fundamentals
+<p align="left">
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System_Design-2196F3?style=for-the-badge"/>
 </p>
 
 ---
@@ -78,7 +132,6 @@ Here are some ideas to get you started:
 - 🧠 NTSE Stage 1 Qualified  
 - 🥈 Rank 42 in Gujarat (12th GHSEB) | 🥇 Rank 1 in Valsad  
 - 💯 Scored 100/100 in Mathematics (10th & 12th)
-- 🎓 **CPI:** 9.02
 
 ---
 
@@ -109,6 +162,10 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=utsav2110&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
 
 <p align="center">
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=utsav2110&show_icons=true&theme=dracula" /> -->
